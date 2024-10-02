@@ -1,1 +1,1 @@
-~Open the .exe file in full screen to let it work properly~
+Open the .exe file in the full screen for it to work properly
